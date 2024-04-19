@@ -1,0 +1,20 @@
+
+
+.underline {
+  margin-left: 6px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  height: 14px;
+  width: 100%;
+  max-width: 180px;
+  background: #F10DA3;
+  border: 0px;
+}
+
+.left {
+  align-content: flex-start;
+}
+
+.navbar {
+	background-color: aqua;
+}
