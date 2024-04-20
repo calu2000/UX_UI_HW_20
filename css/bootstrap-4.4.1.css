@@ -8,7 +8,7 @@
   --blue: #007bff;
   --indigo: #6610f2;
   --purple: #6f42c1;
-  --pink: #e83e8c;
+  --pink: #F10DA3;
   --red: #dc3545;
   --orange: #fd7e14;
   --yellow: #ffc107;
@@ -4406,7 +4406,6 @@ input[type="button"].btn-block {
   background-color: var(--pink);
   border: 1px solid transparent;
   border-radius: 0.25rem;
-  
 }
 
 .navbar-toggler:hover, .navbar-toggler:focus {
